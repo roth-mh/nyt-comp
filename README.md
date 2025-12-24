@@ -1,6 +1,6 @@
 # NYT Games Weekly Competition
 
-A full-stack application for tracking and competing in NYT Games (Wordle, Connections, Strands, Mini Crossword).
+A full-stack application for tracking and competing in NYT Games (Wordle, Connections, Strands, Mini Crossword). -mroth
 
 ## Features
 
